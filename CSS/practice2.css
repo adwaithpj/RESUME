@@ -1,0 +1,28 @@
+.top_thing {
+    background-color: aquamarine;
+    font-family: Monteserrat;
+    padding: 20px;
+    border: 10px solid black;
+    max-width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+}
+
+.middle-container {
+    border: 20px solid black;
+    background-color: red;
+    margin-left: 200px;
+    max-width: 200px;
+    height: 200px;
+}
+
+.end-container {
+    border: 10px solid black;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+* {
+    margin: 0;
+}
