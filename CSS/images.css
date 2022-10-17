@@ -1,4 +1,5 @@
 body {
+    background-image: -webkit-linear-gradient(top, #008836, #8fb600);
     margin: 0;
     text-align: center;
 }
@@ -8,18 +9,18 @@ h1 {
     width: 50%;
     margin: 50px auto;
     font-size: 7.625rem;
-    color: #66BFBF;
+    color: #001995;
 }
 
 h2 {
-    color: #11999E;
+    color: #004b84;
     font-family: Montserrat;
     font-size: 60px;
     font-weight: normal;
 }
 
 h3 {
-    color: #11999E;
+    color: #001f85;
     font-family: Montserrat;
     font-size: 30px;
     font-weight: normal;
@@ -163,7 +164,7 @@ hr {
 /* Bottom Container */
 
 .bottom-container {
-    background-color: #66BFBF;
+    background-color: #134d4d;
     padding-bottom: 30px;
     margin-top: 50px;
 }
